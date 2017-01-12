@@ -123,10 +123,12 @@ div.pic{
 }
 p.about{
   float:left;
+  line-height:4vh;
   width:55%;
 }
 div.contact{
   float:right;
+  line-height:4vh;
   width:40%;
 }
 h3{
